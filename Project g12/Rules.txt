@@ -1,0 +1,10 @@
+1. Maximum number of players is 2.
+
+2. Enter r to roll. Enter any other character to forfeit your chance.
+
+3. If a die rolls six, the player gets a second roll.
+
+4. Ladders are indicated by purple lines and snakes by orange lines.
+
+5. The first player to reach position 100 is declared the winner.
+  
