@@ -1,0 +1,7 @@
+1. Maximum number of players is 2.
+
+2. Enter r to roll.
+
+3. If a die rolls six, the player gets a second roll.
+
+ 
